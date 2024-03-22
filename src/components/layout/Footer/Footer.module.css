@@ -1,0 +1,48 @@
+.footer{
+    background-color: #7aaaf6;
+    display: flex;
+    justify-content: space-between;
+    border-top: 3px solid #2465aa;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedorFooter1{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.contenedorLogo{
+    margin-top: 5px;
+    display: flex;
+}
+
+.textoLogosRD{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.contenedorFooter2{
+    margin-top: 50px;
+}
+
+.contenedorTextos2{
+    margin-top: 15px;
+}
+
+.textoTarjeta{
+    margin-bottom: 15px;
+}
+
+.contenedorFooter3{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.contenedorTextos3{
+    margin-top: 15px;
+}
+
+.textoEnvios{
+    margin-bottom: 15px;
+}

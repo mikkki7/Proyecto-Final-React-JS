@@ -1,0 +1,35 @@
+.contenedorContador{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.contador{
+    font-size: x-large;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.contenedorBotones{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.botones{
+    border-radius: 10px;
+    width: 25px;
+    height: 25px;
+    border: 3px solid #4f88d0;
+    background-color: #4f88d0;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.botonAgregar{
+    width: 150px;
+    border: 3px solid #2465aa;
+    background-color: #7aaaf6;
+    padding: 5px;
+    margin-top: 33px;
+}

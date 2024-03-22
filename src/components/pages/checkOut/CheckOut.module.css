@@ -1,0 +1,47 @@
+.contenedorTexto{
+    margin-left: 25px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.botonComprando{
+    background-color: white;
+    color: #3a76bd;
+    border: 2px solid #3a76bd;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.contenedorFormulario{
+    margin-left: 25px;
+}
+
+.titulo2{
+    text-decoration: underline;
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.inputs{
+    width: 600px;
+    padding: 10px;
+    border: 3px solid #3a76bd;
+}
+
+.botonPagar{
+    background-color: #3a76bd;
+    border: 2px solid black;
+    width: 200px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 200px;
+}

@@ -1,0 +1,117 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+
+.contenedorInfo{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 25px 25px;
+}
+
+.textoInfo{
+    font-weight: 1000;
+}
+
+.contenedorItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid #7aa6fa;
+    padding: 10px;
+    margin: 0px 20px 25px 20px;
+}
+
+.contenedorFoto{
+    display: flex;
+}
+
+.foto{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.nombreItem{
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+.precioItem{
+    margin-left: 85px;
+}
+
+.botonBasura{
+    background: transparent;
+    border: transparent;
+}
+
+.iconoBasura{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.contenedorBotones{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.botonVaciar{
+    display: flex;
+    background-color: white;
+    color: #7aa6fa;
+    border: 2px solid #7aa6fa;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.textoBotonVaciar{
+    margin-top: 3px;
+}
+
+.botonPago{
+    display: flex;
+    background-color: #7aa6fa;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.iconoTarjeta{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.textoBotonPago{
+    margin-top: 2px;
+}
+
+.botonAgregar{
+    margin: 75px 0px 75px 550px;
+}
+
+.textoBotonAgregar{
+    background-color: #7aa6fa;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.infoCart{
+    display: flex;
+    justify-content: end;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.textoCart{
+    font-weight: 1000;
+    margin-right: 25px;
+}

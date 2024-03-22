@@ -1,0 +1,14 @@
+.contenedorCards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.spinner{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}

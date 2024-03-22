@@ -1,0 +1,25 @@
+.contenedorNotFound{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.fotoNotFound{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
+
+.contenedorTexto{
+    margin-right: 25px;
+}
+
+.tituloNotFound{
+    text-decoration: underline;
+    margin-bottom: 125px;
+}
+
+.textoNotFound1{
+    padding-bottom: 50px;
+}

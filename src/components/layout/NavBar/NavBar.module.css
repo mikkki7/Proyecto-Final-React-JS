@@ -1,0 +1,65 @@
+.header{
+    background-color: #7aaaf6;
+    border-bottom: 3px solid #2465aa;
+    margin-bottom: 50px;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
+
+li{
+    list-style-type: none;
+}
+
+.contenedorLogo{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+.categorias{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.categorias a:hover{
+    color: white;
+}
+
+.contenedorIconos{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: 50px;
+}
+
+.iconoUser{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.iconoUser:hover{
+    color: white;
+}
