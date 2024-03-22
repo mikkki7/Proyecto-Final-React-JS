@@ -11,7 +11,7 @@ const ItemCountContainer = ({ stock, onAdd, initial = 1 }) => {
             setCounter(counter + 1);
         }  else {
             Swal.fire({
-                icon: "warning",
+                icon: "error",
                 title: "Maximo",
                 text: "No existen mas unidades en stock",
                 showConfirmButton: false
